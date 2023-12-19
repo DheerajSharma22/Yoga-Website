@@ -574,6 +574,12 @@ form input {
 
 .footer-bottom-options a {
   font-size: 1.6rem;
+  color: #818a92;
+  font-weight: 500;
+}
+
+.footer-bottom-options a:hover {
+  color: var(--purple);
 }
 
 /* Media Queries Starts */
